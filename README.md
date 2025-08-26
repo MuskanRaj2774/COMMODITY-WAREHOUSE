@@ -55,7 +55,7 @@ Our vision is to democratize access to commodity markets by creating a transpare
  
 ### Testnet Deployment
 - **Network**:
-- - **Contract Address** 
+- **Contract Address** 
 - **Transaction Hash**
 - **Deployment Date**
 
@@ -77,4 +77,5 @@ Our vision is to democratize access to commodity markets by creating a transpare
 ---
 
 *For technical documentation, API references, and integration guides, please refer to our developer documentation.*
+
 
