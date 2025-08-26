@@ -54,16 +54,16 @@ Our vision is to democratize access to commodity markets by creating a transpare
  ![alt text](image-1.png)
  
 ### Testnet Deployment
-- **Network**: [To be updated]
-- **Contract Address**: [To be updated]
-- **Transaction Hash**: [To be updated]
-- **Deployment Date**: [To be updated]
+- **Network**:
+- - **Contract Address** 
+- **Transaction Hash**
+- **Deployment Date**
 
 ### Mainnet Deployment
-- **Network**: [To be updated]
-- **Contract Address**: [To be updated] 
-- **Transaction Hash**: [To be updated]
-- **Deployment Date**: [To be updated]
+- **Network**
+- **Contract Address**
+- **Transaction Hash**
+- **Deployment Date**
 
 ### Supported Commodities
 - **Gold (Type 1)**: Precious metal storage and trading
@@ -77,3 +77,4 @@ Our vision is to democratize access to commodity markets by creating a transpare
 ---
 
 *For technical documentation, API references, and integration guides, please refer to our developer documentation.*
+
