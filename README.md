@@ -53,17 +53,7 @@ Our vision is to democratize access to commodity markets by creating a transpare
  ST2KRAJVXBQAFVC6V5GMT04BHE2C8ZCRRMJK43TP.commodity-warehouse
  ![alt text](image-1.png)
  
-### Testnet Deployment
-- **Network**:
-- **Contract Address** 
-- **Transaction Hash**
-- **Deployment Date**
 
-### Mainnet Deployment
-- **Network**
-- **Contract Address**
-- **Transaction Hash**
-- **Deployment Date**
 
 ### Supported Commodities
 - **Gold (Type 1)**: Precious metal storage and trading
@@ -77,5 +67,6 @@ Our vision is to democratize access to commodity markets by creating a transpare
 ---
 
 *For technical documentation, API references, and integration guides, please refer to our developer documentation.*
+
 
 
