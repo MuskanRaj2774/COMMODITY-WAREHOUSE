@@ -1,0 +1,8 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "forest wear lava nominee concert sister whisper custom random cup avocado chuckle erosion derive guitar patch inject budget rigid silk roast unlock blur choose"
+
